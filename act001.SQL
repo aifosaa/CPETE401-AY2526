@@ -61,7 +61,7 @@ CREATE TABLE appointments (
 CREATE TABLE departments (
     departments_id INT,
     departments_name VARCHAR (100),
-    departments_office_location VARCHAR(100),
+    departments_office_location VARCHAR(100)
 );
 
 
